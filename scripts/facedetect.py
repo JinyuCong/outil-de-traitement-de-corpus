@@ -12,9 +12,9 @@ for img in glob.glob(os.path.join(images_path, "*.jpg")):
     try:
         face_objs = DeepFace.extract_faces(
             img_path=img,
-            target_size=(224, 224),
-            align=True,
+            target_size=(224,224),
             detector_backend='opencv',
+            enforce_detection=False,
             grayscale=True
         )
         face = face_objs[0]['face'] * 255
