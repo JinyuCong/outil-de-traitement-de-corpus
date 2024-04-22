@@ -1,1 +1,4 @@
 /data
+/.idea
+/scripts/.idea
+/scripts/__pycache__

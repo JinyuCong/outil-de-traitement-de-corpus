@@ -7,7 +7,7 @@ Mon objectif est de détecter les émotions humaines, ce qui relève de la recon
 
 ## Corpus
 
-J'ai trouvé un projet similaire sur Kaggle, qui dispose d'un ensemble de données d'entraînement assez volumineux. J'ai choisi https://www.kaggle.com/datasets/sujaykapadnis/emotion-recognition-dataset/data . Par conséquent, j'ai l'intention de créer un ensemble de données un peu plus petit, d'environ 4000 entrées. Chaque entrée contiendra une photo faciale ainsi que l'émotion correspondante exprimée par le visage de la personne sur la photo, qui servira de balise.
+J'ai trouvé un projet similaire sur Kaggle, qui dispose d'un ensemble de données d'entraînement assez volumineux. J'ai choisi https://www.kaggle.com/datasets/sujaykapadnis/emotion-recognition-dataset/data . Par conséquent, j'ai l'intention de créer un ensemble de données plus petit, 480 entrées. Chaque entrée contiendra une photo faciale ainsi que l'émotion correspondante exprimée par le visage de la personne sur la photo, qui servira de balise.
 
 ## Type de prédiction peut servir ce corpus
 
