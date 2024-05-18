@@ -1,8 +1,9 @@
+images,labels,,
 ../data/cleaned\angry\angry0.jpg,0,,
-../data/cleaned\angry\angry1.jpg,0,,
-../data/cleaned\angry\angry10.jpg,0,,0 = angry
-../data/cleaned\angry\angry100.jpg,0,,1 = happy
-../data/cleaned\angry\angry101.jpg,0,,2 = surprise
+../data/cleaned\angry\angry1.jpg,0,,0 = angry
+../data/cleaned\angry\angry10.jpg,0,,1 = happy
+../data/cleaned\angry\angry100.jpg,0,,2 = surprise
+../data/cleaned\angry\angry101.jpg,0,,
 ../data/cleaned\angry\angry103.jpg,0,,
 ../data/cleaned\angry\angry104.jpg,0,,
 ../data/cleaned\angry\angry105.jpg,0,,

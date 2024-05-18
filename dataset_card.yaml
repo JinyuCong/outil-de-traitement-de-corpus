@@ -1,0 +1,14 @@
+dataset_name: "human emotion photos classification"
+creator: "CONG Jinyu"
+creation_date: "2024-04"
+
+description: |
+Ce jeu de données utilise un total de 480 images de visages pour l'ensemble d'entraînement et de test. Chaque visage est étiqueté comme étant heureux, en colère ou surpris. Chaque photo est une image en noir et blanc de 224x224 pixels, ne contenant que la partie du visage afin d'assurer la précision de l'entraînement.
+
+feature: 
+- photos des visages des gens
+
+classes: 
+- happy
+- angry
+- surprise
